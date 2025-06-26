@@ -1,11 +1,9 @@
 """
 ****************************************************************************
 Additional info
- 1. I declare that my work contins no examples of misconduct, such as
- plagiarism, or collusion.
+ 1. I declare that my work contains no examples of misconduct, such as
+ plagiarism or collusion.
  2. Any code taken from other sources is referenced within my code solution.
- 3. Student ID: 20240454
- 4. Date: 
 ****************************************************************************
 
 """
@@ -19,7 +17,7 @@ from datetime import datetime
 
 def get_valid_filename():
 
-    # Example list from Table 2 (you can replace it with actual list)
+    # Example list from Table 2 (you can replace it with an actual list)
     valid_city_codes = ['CDG', 'BCN', 'LHR', 'FRA', 'AMS']
         # --- DISPLAY CONFIRMATION ---
     airport_names = {
